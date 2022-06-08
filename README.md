@@ -1,7 +1,7 @@
 Hi 👋 My name is Syariif Abdurrahman Bathik
 ===========================================
 
-Web Developer & UI Desinger
+Web Developer & UI Designer
 ---------------------------
 
 I am an undergraduate student in Information Systems at the Faculty of Industrial Engineering, Telkom University who wants to have a career in IT and Business. I am an enthusiastic student and have a strong motivation in facing challenges and exploring new things. I also have good communication, am thorough, able to work in a team, fast learner, and can adapt to a new work environment. Currently, I am constantly looking for opportunities to continue to progress and develop.

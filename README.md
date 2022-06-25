@@ -9,7 +9,7 @@ I am an undergraduate student in Information Systems at the Faculty of Industria
 *   🌍  I'm based in Bandung, Indonesia
 *   🖥️  See my portfolio at [MyPortfolio](http://bit.ly/Portfolio_SyariifAbdurrahmanBathik)
 *   ✉️  You can contact me at [abdurrahman1467@gmail.com](mailto:abdurrahman1467@gmail.com)
-*   🧠  I'm learning Flutter
+*   🧠  I'm learning NuxtJS 
 
 ### Skills
 

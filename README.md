@@ -8,8 +8,8 @@ Junior Web Developer and student at Telkom University majoring in Information Sy
 
 * 🌍  I'm based in Bandung, West Java, Indonesia
 * ✉️  You can contact me at [abdurrahman1467@gmail.com](mailto:abdurrahman1467@gmail.com)
-* 🚀  I'm currently working on [Medic+](http:///medicplus.co.id/)
-* 🧠  I'm learning NuxtJs & ReactJs
+* 🚀  I'm currently working on [Indigo Telkom](https://join.indigo.id/)
+* 🧠  I'm learning Express.js, Next.js, Nuxt.js
 * 🤝  I'm open to collaborating on Interesting Projects
 
 <a href="https://www.github.com/foxxxesky" target="_blank" rel="noreferrer"><img

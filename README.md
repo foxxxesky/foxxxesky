@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer & UI Designer
 ----------------------------------
 
-Junior Web Developer and student at Telkom University majoring in Information Systems 7th semester with a strong passion for learning new things. Familiar with Laravel, and NuxtJs. Learn Git, and SQL(MySQL) databases for building projects. Enjoy searching for new experiences and I am ready to work as a software developer.
+I'm a Junior web developer with a strong passion for learning new things. Experienced with Laravel, NuxtJS, and Clean Architecture. 7th Semester Information Systems student at Telkom University. Pursuing new professional challenges with growth-oriented programming.
 
 * 🌍  I'm based in Bandung, West Java, Indonesia
 * ✉️  You can contact me at [abdurrahman1467@gmail.com](mailto:abdurrahman1467@gmail.com)

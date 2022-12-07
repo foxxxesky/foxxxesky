@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Syariif Abdurrahman Bathik
 ==================================================================================================================================================
 
-Junior Web Developer & UI Designer
+Junior Web Developer
 ----------------------------------
 
 I'm a Junior web developer with a strong passion for learning new things. Experienced with Laravel, NuxtJS, and Clean Architecture. 7th Semester Information Systems student at Telkom University. Pursuing new professional challenges with growth-oriented programming.

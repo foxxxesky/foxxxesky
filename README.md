@@ -8,7 +8,6 @@ I am a junior full-stack web developer with a passion for crafting innovative an
 
 *   🌍  I'm based in Bandung, West Java, Indonesia
 *   ✉️  You can contact me at [abdurrahman1467@gmail.com](mailto:abdurrahman1467@gmail.com)
-*   🚀  I'm currently working on [Medic+](http://medicplus.co.id)
 *   🧠  I'm learning Express & NextJs
 
 <a href="https://www.github.com/foxxxesky" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/foxxxesky?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
